@@ -2,7 +2,7 @@
 
 describe("US2 : Créer un compte", () => {
     it("TC-US2-01: En tant que nouvel utilisateur, je veux m’inscrire sur le site avec mon email et mes informations personnelles afin de pouvoir passer des commandes et suivre mes achats.", () => {
-        cy.visit("https://automationeise.com/xerc");
+        cy.visit("https://automationexercise.com/");
         
         // Cliquer sur le bouton 'Signup / Login'
     
